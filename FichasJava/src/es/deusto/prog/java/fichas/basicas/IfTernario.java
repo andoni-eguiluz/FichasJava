@@ -2,7 +2,14 @@ package es.deusto.prog.java.fichas.basicas;
 
 import java.util.Scanner;
 
+/** Ejemplo If Ternario (if de línea)
+ * @author andoni.eguiluz @ ingenieria.deusto.es
+ */
 public class IfTernario {
+	
+	/** Método principal - lanza ejemplo
+	 * @param args	No utilizado
+	 */
 	public static void main(String[] args) {
 		ejemplo();
 	}
